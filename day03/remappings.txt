@@ -1,0 +1,2 @@
+@openzeppelin/contracts/=/home/ali/PISCINE POC/pool2026-p2p-aliisssss/day02/lib/openzeppelin-contracts/contracts/
+forge-std/=/home/ali/PISCINE POC/pool2026-p2p-aliisssss/day03/lib/forge-std/src/
